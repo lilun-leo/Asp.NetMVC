@@ -1,0 +1,10 @@
+F:\Code\ApplicationWeb\Entity\bin\Debug\Entity.dll.config
+F:\Code\ApplicationWeb\Entity\bin\Debug\Entity.dll
+F:\Code\ApplicationWeb\Entity\bin\Debug\Entity.pdb
+F:\Code\ApplicationWeb\Entity\bin\Debug\EntityFramework.dll
+F:\Code\ApplicationWeb\Entity\bin\Debug\EntityFramework.SqlServer.dll
+F:\Code\ApplicationWeb\Entity\bin\Debug\EntityFramework.xml
+F:\Code\ApplicationWeb\Entity\bin\Debug\EntityFramework.SqlServer.xml
+F:\Code\ApplicationWeb\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+F:\Code\ApplicationWeb\Entity\obj\Debug\Entity.dll
+F:\Code\ApplicationWeb\Entity\obj\Debug\Entity.pdb

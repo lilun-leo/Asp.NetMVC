@@ -1,0 +1,6 @@
+F:\Code\ApplicationWeb\Commom\bin\Debug\Commom.dll
+F:\Code\ApplicationWeb\Commom\bin\Debug\Commom.pdb
+F:\Code\ApplicationWeb\Commom\obj\Debug\Commom.csproj.CoreCompileInputs.cache
+F:\Code\ApplicationWeb\Commom\obj\Debug\Commom.dll
+F:\Code\ApplicationWeb\Commom\obj\Debug\Commom.pdb
+F:\Code\ApplicationWeb\Commom\obj\Debug\Commom.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+F:\Code\ApplicationWeb\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\Code\ApplicationWeb\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\Code\ApplicationWeb\Server\bin\Debug\Server.dll
+F:\Code\ApplicationWeb\Server\bin\Debug\Server.pdb
+F:\Code\ApplicationWeb\Server\bin\Debug\Entity.dll
+F:\Code\ApplicationWeb\Server\bin\Debug\Interface.dll
+F:\Code\ApplicationWeb\Server\bin\Debug\Model.dll
+F:\Code\ApplicationWeb\Server\bin\Debug\EntityFramework.dll
+F:\Code\ApplicationWeb\Server\bin\Debug\Entity.pdb
+F:\Code\ApplicationWeb\Server\bin\Debug\Entity.dll.config
+F:\Code\ApplicationWeb\Server\bin\Debug\Interface.pdb
+F:\Code\ApplicationWeb\Server\bin\Debug\Interface.dll.config
+F:\Code\ApplicationWeb\Server\bin\Debug\Model.pdb
+F:\Code\ApplicationWeb\Server\bin\Debug\EntityFramework.xml
+F:\Code\ApplicationWeb\Server\obj\Debug\Server.dll
+F:\Code\ApplicationWeb\Server\obj\Debug\Server.pdb
